@@ -1,4 +1,4 @@
-##[Simon](https://fr.wikipedia.org/wiki/Simon_(jeu)) pour index-education
+## [Simon](https://fr.wikipedia.org/wiki/Simon_(jeu)) pour index-education
 
 Bonjour l'équipe de recrutement de index-education :)
 
